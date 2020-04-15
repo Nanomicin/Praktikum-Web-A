@@ -1,0 +1,22 @@
+*{
+    font-family: monospace;
+}
+
+.calc{
+margin-left: 50px;
+}
+
+.field{
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+.operator{
+margin-top: 10px;
+margin-bottom: 20px;
+margin-left: 17px;
+}
+
+.hasil{
+  margin-top: 20px;
+}
