@@ -1,0 +1,18 @@
+body{
+    background-color: #9ce9ff;
+}
+#menu ul {
+    background-color: #00c8ff;
+}
+#menu li a:hover {
+    color: #29aae3;
+}
+#sidebar li a:hover{
+    background-color: #29aae3;
+}
+.populer{
+    background-color: #00c8ff;
+}
+.button{
+    background-color: #00c8ff;
+}
